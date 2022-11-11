@@ -54,6 +54,7 @@ body {
 .hero-sub-text {
   font-size: 18px;
   color: #e5e7eb;
+  font-weight: 300;
 }
 
 .hero-button {
@@ -117,4 +118,37 @@ body {
   text-align: right;
   margin-right: 12%;
   font-weight: 900;
+}
+
+/* CTA Section */
+.cta {
+  padding: 7% 15%;
+}
+
+.cta-container {
+  background-color: #3382f6;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 2% 0;
+  border-radius: 18px;
+}
+
+.cta-heading {
+  margin-bottom: 3px;
+  color: #f9faf8;
+}
+
+.cta-text {
+  margin-top: 0;
+  color: #e5e7eb;
+  font-weight: 300;
+}
+
+.cta-button {
+  background-color: #3382f6;
+  border: 2px solid #f9faf8;
+  padding: 6px 18px;
+  border-radius: 6px;
+  color: #f9faf8;
 }
