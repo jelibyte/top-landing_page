@@ -99,3 +99,22 @@ body {
   border: 3px solid #3382f6;
   border-radius: 16px;
 }
+
+/* Quote Section */
+.quote {
+  background-color: #d5d7db;
+  padding: 7% 28%;
+}
+
+.quote-text {
+  font-size: 36px;
+  font-weight: 200;
+  font-style: italic;
+  color: #1f2937;
+}
+
+.quote-author {
+  text-align: right;
+  margin-right: 12%;
+  font-weight: 900;
+}
